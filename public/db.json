@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "nome": "Ração Golden Filhotes",
+    "categoria": "Cachorro",
+    "tipo": "Comida",
+    "preco": 89.90
+  },
+  {
+    "id": 2,
+    "nome": "Ração Pedigree Adulto",
+    "categoria": "Cachorro",
+    "tipo": "Comida",
+    "preco": 105.50
+  },
+  {
+    "id": 3,
+    "nome": "Petisco Dentalife",
+    "categoria": "Cachorro",
+    "tipo": "Comida",
+    "preco": 20.99
+  },
+  {
+    "id": 4,
+    "nome": "Ração Premier Cães Pequenos",
+    "categoria": "Cachorro",
+    "tipo": "Comida",
+    "preco": 94.00
+  },
+  {
+    "id": 5,
+    "nome": "Biscoito Canino Orgânico",
+    "categoria": "Cachorro",
+    "tipo": "Comida",
+    "preco": 14.50
+  },
+
+  {
+    "id": 6,
+    "nome": "Ração Whiskas Adulto",
+    "categoria": "Gato",
+    "tipo": "Comida",
+    "preco": 39.90
+  },
+  {
+    "id": 7,
+    "nome": "Petisco Temptations",
+    "categoria": "Gato",
+    "tipo": "Comida",
+    "preco": 12.00
+  },
+  {
+    "id": 8,
+    "nome": "Ração Golden Gatos Castrados",
+    "categoria": "Gato",
+    "tipo": "Comida",
+    "preco": 45.50
+  },
+  {
+    "id": 9,
+    "nome": "Sache Friskies Salmão",
+    "categoria": "Gato",
+    "tipo": "Comida",
+    "preco": 4.99
+  },
+  {
+    "id": 10,
+    "nome": "Ração Natural Cat",
+    "categoria": "Gato",
+    "tipo": "Comida",
+    "preco": 49.90
+  },
+
+  {
+    "id": 11,
+    "nome": "Mistura de Sementes para Canário",
+    "categoria": "Pássaro",
+    "tipo": "Comida",
+    "preco": 15.50
+  },
+  {
+    "id": 12,
+    "nome": "Alpiste Selecionado",
+    "categoria": "Pássaro",
+    "tipo": "Comida",
+    "preco": 7.99
+  },
+  {
+    "id": 13,
+    "nome": "Ração Megazoo Periquito",
+    "categoria": "Pássaro",
+    "tipo": "Comida",
+    "preco": 19.90
+  },
+  {
+    "id": 14,
+    "nome": "Suplemento Vitamínico Avian",
+    "categoria": "Pássaro",
+    "tipo": "Comida",
+    "preco": 22.00
+  },
+  {
+    "id": 15,
+    "nome": "Frutas Desidratadas para Pássaros",
+    "categoria": "Pássaro",
+    "tipo": "Comida",
+    "preco": 16.00
+  },
+
+  {
+    "id": 16,
+    "nome": "Alimento em Flocos para Peixes Tropicais",
+    "categoria": "Peixe",
+    "tipo": "Comida",
+    "preco": 11.90
+  },
+  {
+    "id": 17,
+    "nome": "Comida em Tabletes para Fundo",
+    "categoria": "Peixe",
+    "tipo": "Comida",
+    "preco": 13.50
+  },
+  {
+    "id": 18,
+    "nome": "Alimento Tetra Color",
+    "categoria": "Peixe",
+    "tipo": "Comida",
+    "preco": 17.80
+  },
+  {
+    "id": 19,
+    "nome": "Ração para Betta Fish",
+    "categoria": "Peixe",
+    "tipo": "Comida",
+    "preco": 9.99
+  },
+  {
+    "id": 20,
+    "nome": "Comida Supervit para Peixes Ornamentais",
+    "categoria": "Peixe",
+    "tipo": "Comida",
+    "preco": 14.00
+  }
+]
